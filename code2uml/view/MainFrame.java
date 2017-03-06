@@ -123,7 +123,7 @@ extends JFrame {
 
             @Override
             public void run() {
-                new MainFrame().setVisible(true);
+                new MainFramefdfdsfdsfsd().setVisible(true);
             }
         });
     }
